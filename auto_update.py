@@ -8,7 +8,7 @@ import datetime
 GITHUB_TOKEN = "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"
 REPO_OWNER = "WorldOfEpoch"
 REPO_NAME = "agis"
-BRANCH = "main"
+BRANCH = "master"
 
 # Local repo directory
 LOCAL_REPO_DIR = r"C:\unleashedagis - Copy\src\atavism\agis"
@@ -61,3 +61,4 @@ else:
 
 
 # Updated by ChatGPT on 2025-03-11 22:54:41.617222!
+# Updated by ChatGPT on 2025-03-11 22:58:57.661708!
